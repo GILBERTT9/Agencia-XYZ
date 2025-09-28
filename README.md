@@ -70,6 +70,3 @@ Durante o desenvolvimento, pratiquei:
 
 Projeto desenvolvido por **Gilbertt** 🚀
 [Meu GitHub](https://github.com/GILBERTT9)
-
-```
-```
