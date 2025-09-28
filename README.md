@@ -35,7 +35,7 @@ O objetivo é treinar boas práticas de desenvolvimento web, como organização 
 
 ## 📸 Demonstração
 
-![Preview do projeto](coloque_aqui_o_link_da_imagem.png)
+![Preview do projeto no ar](coloque_aqui_o_link_da_imagem.png)
 
 *(Suba um print do site na pasta `src/images` e troque o link acima)*
 
